@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user_name">user name</string>
+    <string name="user_email">user email</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="age">age</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="steps">steps</string>
+    <string name="average">Average</string>
+    <string name="total">Total</string>
+</resources>
